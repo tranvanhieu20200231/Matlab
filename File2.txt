@@ -1,0 +1,7 @@
+Luongmua 3
+SLWall 0
+Tatdan 1
+RMODE 0
+Mua_ID 1 94 48
+Mua_ID 2 11 61
+Mua_ID 3 55 14

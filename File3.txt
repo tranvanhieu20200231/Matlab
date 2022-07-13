@@ -1,0 +1,5 @@
+Luongmua 0
+SLWall 0
+Tatdan 1
+RMODE 1
+10
